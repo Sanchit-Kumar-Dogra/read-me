@@ -16,8 +16,6 @@
         It works by examining each set of adjacent elements in the array
         From left to right,
         Switching their positions if they are out of order.
-    2) output_file() prints the structure in output_file.txt .
-        If the file named output_file doesn't exist, then it is created automatically.
 ## How to Run files
     1) First install the files as mentioned above in same directory
     2) Open the terminal
