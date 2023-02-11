@@ -8,8 +8,8 @@
     -Displaying the sorted data in a text file.
 
 ## Files required ot be downloaded beforehand:
-    [input_file](https://github.com/Sanchit-Kumar-Dogra/zense-stuff/blob/main/input_file)
-    [lab10.c](https://github.com/Sanchit-Kumar-Dogra/zense-stuff/blob/main/lab10.c)
+1. [input_file](https://github.com/Sanchit-Kumar-Dogra/zense-stuff/blob/main/input_file)
+2. [lab10.c](https://github.com/Sanchit-Kumar-Dogra/zense-stuff/blob/main/lab10.c)
 ## Explaining the mechanism of the code
     1) sort() function sort the given array of structures based on id of students in the array.
         The sorting method used is Bubble sorting.
